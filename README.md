@@ -10,3 +10,7 @@
 
 ### 闲的蛋疼，不如读一读underscore源码
 
+#### 2018.5.20 阅读underscore 1-86行
+1. underscore做的主要工作是变量替换减少代码量
+2. 封装了一个支持无 new 调用的构造函数 `_`
+3. 写了一个性能优化函数 optimizeCb， 当传入参数较少时使用call代替apply
