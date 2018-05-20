@@ -8,21 +8,7 @@
                                                                                   \ \____/
                                                                                    \/___/
 
-Underscore.js is a utility-belt library for JavaScript that provides
-support for the usual functional suspects (each, map, reduce, filter...)
-without extending any core JavaScript objects.
-
+阅读源码
 For Docs, License, Tests, and pre-packed downloads, see:
 http://underscorejs.org
 
-For support and questions, please use
-[the gitter channel](https://gitter.im/jashkenas/underscore)
-or [stackoverflow](http://stackoverflow.com/search?q=underscore.js)
-
-Underscore is an open-sourced component of DocumentCloud:
-https://github.com/documentcloud
-
-Many thanks to our contributors:
-https://github.com/jashkenas/underscore/contributors
-
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
