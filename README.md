@@ -8,7 +8,5 @@
                                                                                   \ \____/
                                                                                    \/___/
 
-阅读源码
-For Docs, License, Tests, and pre-packed downloads, see:
-http://underscorejs.org
+### 闲的蛋疼，不如读一读underscore源码
 
